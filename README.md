@@ -27,3 +27,6 @@ This task helped me understand how Natural Language Processing works, how to con
 Tools used in this task are Python, Scikit-learn, Pandas, TF-IDF Vectorizer, Logistic Regression, and Google Colab.
 
 The output of this task is a Jupyter Notebook showing complete preprocessing, model training, evaluation, and sentiment predictions.
+
+#output
+<img width="529" height="631" alt="Image" src="https://github.com/user-attachments/assets/3960bd11-0f5c-4eec-9ab4-571014d09743" />
